@@ -25,7 +25,7 @@ A pasta `input/` contém dois arquivos de formato `csv`. O primeiro, `fazendas.c
 ## Solução esperada
 Espera-se que o resultado deste projeto gere dois entregáveis:
 1. Uma API Restful que consome os dados do arquivo `csv` e retorne os dados necessários para a renderização do mapa;
-2. Um mapa contendo o desenho do contorno de todas as fazendas processadas e, ao clicar em uma fazenda, deve-se exibir um tooltip contendo o nome da fazenda selecionada e o valor a ser cobrado pelos serviços prestados à fazenda.
+2. Um mapa contendo o desenho do contorno de todas as fazendas processadas e, ao clicar em uma fazenda, deve-se exibir um popup contendo o nome da fazenda selecionada e o valor a ser cobrado pelos serviços prestados à fazenda.
 
 Exemplo de resultado esperado:
 ![Exemplo de mapa](https://raw.githubusercontent.com/mathnogueira/pricing-challenge/development/pictures/map.png)
