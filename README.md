@@ -27,6 +27,9 @@ Espera-se que o resultado deste projeto gere dois entregáveis:
 1. Uma API Restful que consome os dados do arquivo `csv` e retorne os dados necessários para a renderização do mapa;
 2. Um mapa contendo o desenho do contorno de todas as fazendas processadas e, ao clicar em uma fazenda, deve-se exibir um tooltip contendo o nome da fazenda selecionada e o valor a ser cobrado pelos serviços prestados à fazenda.
 
+Exemplo de resultado esperado:
+![Exemplo de mapa](https://raw.githubusercontent.com/mathnogueira/pricing-challenge/development/pictures/map.png)
+
 ## Referências
 
 As referências abaixo serão úteis para sanar dúvidas simples sobre as principais tecnologias que podem ser utilizadas neste teste. Espera-se que você consulte mais materiais ao decorrer do desenvolvimento do projeto para conseguir sanar dúvidas mais complexas.
